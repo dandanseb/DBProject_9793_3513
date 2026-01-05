@@ -218,7 +218,7 @@ The implemented constraints include:
 
 ### Backup2
 - **[Database Backup](Stage2/Backup2/Backup1505_1917)**  
- _backup file_
+ _Backup file of the stage 2_
 
 ---
 
@@ -228,7 +228,7 @@ The implemented constraints include:
 ## Stage 3 – Integration and Views
 
 ### Introduction Stage 3
-As part of the integration phase, we received a [database backup](Stage3/infrastructure_backup_for_reconstruction/infrastructure_backup_for_reconstruction) from another department in the project – the Infrastructure Department of Netflix.
+As part of the integration phase, we received a [database backup](Stage3/infrastructure_backup_for_reconstruction/infrastructure_backup_for_reconstruction) from another department in the project – **the Infrastructure Department of Netflix**.
 
 Using reverse engineering, we reconstructed the [DSD schema](Stage3/ReconstructedDiagrams/ReconstructedDSDdiagram)  of the infrastructure department based on the provided backup. From that schema, we derived the corresponding [ERD](Stage3/ReconstructedDiagrams/ReconstructedERDdiagram)  to visualize the logical relationships within their system.
 
@@ -336,7 +336,7 @@ _This comprehensive infrastructure view enables in-depth analysis of deployment 
 ### Backup3
 
 - **[Database Backup](Stage3/Backup3/backup2506_1735.backup)**  
-_backup file_
+_Backup file of the stage 3_
 ------
 
 
@@ -532,7 +532,7 @@ Key behaviors of the function:
 
 ### Backup4  
   - **[Database Backup](Stage4/Backup4/Backup_1107_1159.backup)**  
-      _backup file_
+      _Backup file of the stage 4_
   
 ---  
 
