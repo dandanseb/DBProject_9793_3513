@@ -5,6 +5,14 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
+### 🎯 Technical Objectives:
+
+- **Complex Modeling:** Design of a standardized schema (3NF) integrating 11 interconnected tables.
+- **Data Engineering:** Automation of data insertion via Python and SQL scripts.
+- **Advanced Business Logic:** Implementation of stored procedures, functions, and triggers in **PL/pgSQL**.
+- **UI Interface:** Development of a complete management dashboard with **Tkinter**.
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Stage 1 – Schema Design, Creation & Data Insertion](#stage-1--schema-design-creation--data-insertion)  
