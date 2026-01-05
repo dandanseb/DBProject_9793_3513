@@ -65,16 +65,16 @@ The goal is to apply database design principles (up to 3NF), execute SQL operati
 
 
 #### Database Creation & Basic SQL Commands
-  - **[CREATE](Stage1/SQL_Programming/CreateTable)**  
+  - **[CREATE](Stage1/SQL_Programming/CreateTable.sql)**  
     _SQL script for creating the database schema_
 
-  - **[INSERT](Stage1/SQL_Programming/InsertTable)**  
+  - **[INSERT](Stage1/SQL_Programming/InsertTable/sql)**  
     _SQL script with manual data insertions_
 
-  - **[SELECT](Stage1/SQL_Programming/SelectTable)**  
-    _Examples of SELECT queries (coming soon)_
+  - **[SELECT](Stage1/SQL_Programming/SelectTable.sql)**  
+    _Examples of SELECT queries_
 
-  - **[DROP](Stage1/SQL_Programming/DropTable)**  
+  - **[DROP](Stage1/SQL_Programming/DropTable.sql)**  
     _SQL script for dropping tables_
 
 
@@ -91,7 +91,7 @@ The goal is to apply database design principles (up to 3NF), execute SQL operati
 
 #### Backup1
   - **[Database Backup](Stage1/Backup/Backup080525_0045)**  
-      _backup file_
+      _Backup file of the stage 1_
 
 ------
 
