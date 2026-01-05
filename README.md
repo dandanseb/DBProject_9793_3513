@@ -72,7 +72,7 @@ The goal is to apply database design principles (up to 3NF), execute SQL operati
     _SQL script with manual data insertions_
 
   - **[SELECT](Stage1/SQL_Programming/SelectTable.sql)**  
-    _Examples of SELECT queries_
+    _Basic SELECT queries_
 
   - **[DROP](Stage1/SQL_Programming/DropTable.sql)**  
     _SQL script for dropping tables_
