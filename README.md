@@ -1,4 +1,9 @@
-# Netflix Content Creators Database Project
+# 🎬 Netflix Content & Infrastructure Management System
+**Relational Database Project - Full Stack SQL & Python**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 - [Introduction](#introduction)
