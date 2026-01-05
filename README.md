@@ -588,7 +588,7 @@ manage database records (CRUD), run predefined SQL queries and functions, and in
 _Below are selected screenshots demonstrating the main features of the graphical user interface:_  
 
 
- - [Dashboard](Stage5/screenshots/dashboard.png)   
+ - ![Alternative Text](Stage5/screenshots/dashboard.png)   
   _Main screen providing access to CRUD operations and queries._  
 
  - [Content Creator Table](Stage5/screenshots/content_creator_table.png)   
